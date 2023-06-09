@@ -1,0 +1,19 @@
+.ultron{
+    text-align: center;
+    border: 1px;
+    width: 600px;
+    height: 300px;
+    flex-wrap: wrap;
+    background-color: bisque;
+}
+.king {
+    text-align: center;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    height: 100px;
+    width: 300px;
+}
+.watcher {
+    border: 1px solid black;
+    
+}

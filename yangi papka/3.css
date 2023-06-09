@@ -1,0 +1,34 @@
+.school {
+    display: flex;
+}
+.school2 {
+    display: flex;
+}
+.power {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: 30px;
+}
+.skill {
+    width: 30px;
+    height: 120px;
+    margin-left: 30px;
+    transform: skew(-15deg);
+    background-color: black;
+}
+.kill {
+    width: 30px;
+    height: 120px;
+    margin-left: 30px;
+    transform: skew(-15deg);
+    background-color: black;
+}
+.dic {
+    margin-left: 30px;
+}
+h3{
+    background-color: red;
+    color: white;
+}

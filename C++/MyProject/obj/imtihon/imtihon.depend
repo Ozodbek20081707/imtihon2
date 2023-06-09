@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683908390 source:c:\users\intel\desktop\c++\myproject\obj\imtihon\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

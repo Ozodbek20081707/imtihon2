@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683555545 source:c:\users\intel\desktop\c++\lntxxxdraka\main.cpp
+	<iostream>
+	<time.h>
+

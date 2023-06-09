@@ -1,0 +1,17 @@
+.ultron{
+    width: 300px;
+    height: 100px;
+    border-radius: 10%;
+    background-color: rgb(23, 16, 147);
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+}
+
+.ultron:hover{
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+    box-shadow: 0 0 5px 10px rgb(13, 219, 112);
+}

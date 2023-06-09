@@ -1,0 +1,17 @@
+body{
+    background-color: burlywood;
+
+}
+.war{
+    border: 2px  colid chocolate;
+    background-color: chocolate;
+    margin: 30px 20px;
+    padding: 5%;
+}
+.box{
+     
+    background-color: bisque;
+}
+a{
+    background-image: radial-gradient(rgb(131, 120, 212),rgb(212, 100, 100));
+}

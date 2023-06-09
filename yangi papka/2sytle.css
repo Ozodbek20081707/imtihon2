@@ -1,0 +1,31 @@
+.bir {
+    width: 220px;
+    height: 220px;
+    border-radius: 60%;
+    border: 1px solid  red;
+    position: relative;
+    transform: translate(-50%, -50%);
+    animation: move-circle 1s linear;
+    animation-iteration-count: infinite;
+    left: 40%;
+    top: 200px;
+  }
+  
+  .ikki {
+    width: 80px;
+    height: 80px;
+    border-radius: 60px;
+    background-color: green;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+  }
+  
+  @keyframes move-circle {
+    0% {
+      transform:  rotate(0deg);
+    }
+    100% {
+      transform:  rotate(360deg);
+    }
+  }
